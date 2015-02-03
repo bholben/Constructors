@@ -1,8 +1,3 @@
-# 02/03/15
-
-___This homework is due by 9am, on 02/04/15___
-
-
 # Homework
 
 1. Copy down the `constructors.js` file that is included in this assignment.
